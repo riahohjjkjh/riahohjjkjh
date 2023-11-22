@@ -1,0 +1,106 @@
+body{
+    background-image: url('https://a-static.besthdwallpaper.com/lone-tree-in-the-middle-of-the-ocean-wallpaper-2560x1600-94299_7.jpg');
+}
+table{            
+    margin: auto;
+}
+.table{
+    width: 968px;    
+}
+.img{
+    border: none;
+    width: auto;
+    height: 30px;
+}
+.img2{
+    border: none;
+    width: auto;
+    height: 10px;
+}
+td{
+    text-align: center;
+    vertical-align: middle;
+}
+.td{
+    background: white;
+    border: 2px double white;
+    letter-spacing: -1px;
+    width: 25%;
+    font-size: 14.0px;
+}
+.th{
+    background: white;
+    border: 2px double white;
+    letter-spacing: -1px;
+    width: 25%; 
+    font-size: 25.0px;   
+}
+.tr{
+    height: 50px;      
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+.div {
+    width: 300px;
+    border: 2px double white;
+    height: 20px;
+}
+.form-group{
+    margin-bottom:15px;
+}
+.form-control{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    width:30%;
+    height:20px;
+    padding:6px 12px;
+    font-size:14px;
+    line-height:1.42857143;
+    color:#555;
+    background-color:#fff;
+    background-image:none;
+    border:1px solid #ccc;
+    border-radius:4px;
+    box-shadow:inset 0 1px 1px rgba(0,0,0,.075);
+}
+.alert{
+    margin-left: auto;
+    margin-right: auto;
+    display:inline-block;
+    padding:6px 12px;
+    width:30%;
+    margin-bottom:20px;
+    border:1px solid transparent;
+    border-radius:4px;
+}
+.alert-danger{
+    color:#a94442;
+    background-color:#f2dede;
+    border-color:#ebccd1;
+}
+.btn{
+    display:inline-block;
+    padding:6px 12px;
+    margin-bottom:0;
+    font-size:14px;
+    font-weight:400;
+    line-height:1.42857143;
+    text-align:center;
+    white-space:nowrap;
+    vertical-align:middle;
+    touch-action:manipulation;
+    cursor:pointer;
+    user-select:none;
+    background-image:none;
+    border:1px solid transparent;
+    border-radius:4px;
+}
+.btn-default{
+    color:#333;
+    background-color:#fff;
+    border-color:#ccc
+}
